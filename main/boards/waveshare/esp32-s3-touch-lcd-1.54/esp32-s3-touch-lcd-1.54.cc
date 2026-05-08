@@ -299,7 +299,7 @@ public:
         InitializeI2c();
         InitializeSpi();
         InitializeLcdDisplay();
-        InitializeTouch();
+        //InitializeTouch();
         InitializeButtons();
         InitializeTools();
         GetBacklight()->RestoreBrightness();
