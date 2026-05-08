@@ -1,3 +1,4 @@
+// build trigger
 #include "wifi_board.h"
 #include "codecs/box_audio_codec.h"
 #include "display/lcd_display.h"
